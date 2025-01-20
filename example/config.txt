@@ -1,0 +1,2 @@
+Prefix plugins/MiniMap2/example/
+Plugin MiniMap2 inputfile parameters.txt outputfile alignment.sam

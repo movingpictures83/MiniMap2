@@ -1,0 +1,2 @@
+reads	reads.fastq
+database	genome.fasta
